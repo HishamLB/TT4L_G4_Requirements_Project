@@ -1791,6 +1791,82 @@ In this section, the desired qualities and characteristics of UniConnect are spe
 
 ---
 
+---
+
+#### 3.11.1 Validation Session
+
+| **Session ID** | **Date and Time** | **Technique** | **Section Reviewed** | **Participant & Role** | **No. of Defect** |
+|----------------|-------------------|---------------|------------------------|--------------------------|--------------------|
+|                |                   |               |                        |                          |                    |
+
+---
+
+#### 3.11.2 Defect Summary
+
+**A. Content Defect**
+
+| **Req ID** | **Validation and Defect Description** | **Detected By** | **Comment/Suggested Fix** | **Session ID** | **Severity (1–5)** |
+|------------|----------------------------------------|------------------|-----------------------------|----------------|---------------------|
+|            |                                        |                  |                             |                |                     |
+
+**B. Documentation Defect**
+
+| **Page No.** | **Validation and Defect Description** | **Detected By** | **Comment/Suggested Fix** | **Session ID** | **Severity (1–5)** |
+|--------------|----------------------------------------|------------------|-----------------------------|----------------|---------------------|
+|              |                                        |                  |                             |                |                     |
+
+**C. Agreement Defect**
+
+| **Req ID** | **Validation Description/Stakeholder Concern** | **Mismatch** | **Detected By** | **Session ID** | **Severity (1–5)** |
+|------------|--------------------------------------------------|--------------|------------------|----------------|---------------------|
+|            |                                                  |              |                  |                |                     |
+
+---
+
+#### 3.11.3 Conflict Analysis
+
+| **Conflict ID** | **Conflict Description** | **Conflict Analysis** | **Stakeholders Involved** | **Session ID** |
+|------------------|---------------------------|-------------------------|-----------------------------|----------------|
+|                  |                           |                         |                             |                |
+
+---
+
+#### 3.11.4 Conflict Resolution
+
+| **Conflict ID** | **Conflict Resolution Strategy** | **Resolved (Y/N)** | **Outcome (If Resolved)** | **Justification** |
+|------------------|----------------------------------|----------------------|-----------------------------|--------------------|
+|                  |                                  |                      |                             |                    |
+
+---
+
+#### 3.11.5 Change Log *(summarized from the full change log maintained in `changelog.md` on GitHub)*
+
+| **Change ID** | **Req ID** | **Summary of Change** | **Proposed By** | **Date** | **Session ID** |
+|----------------|------------|------------------------|------------------|----------|----------------|
+|                |            |                        |                  |          |                |
+
+---
+
+#### 3.11.6 Requirements Traceability Matrix
+
+| **Req ID** | **Requirement Description** | **Linked Goal(s)** | **Feature(s)** | **Use Case(s)** | **Traceability Score (1–4)** |
+|------------|-------------------------------|---------------------|------------------|------------------|-------------------------------|
+|            |                               |                     |                  |                  |                               |
+
+---
+
+### 3.11.7 Role in Requirements Validation, Negotiation & Management
+
+| **Student Name** | **Primary Responsibility** | **No. of Session Participated** | 
+|------------|-------------------------------|---------------------|
+|            |                               |                     |
+
+---
+
+### 3.8.8 Version Control & Configuration Summary			
+		
+---
+
 # 4 Verification Approach
 
 In this section, we outline the planned verification approaches and methods for qualifying the software of the UniConnect system. The verification activities are aligned with the recommended information items, and each activity includes specific details regarding how, who, when, and where.
